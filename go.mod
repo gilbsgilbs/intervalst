@@ -1,3 +1,3 @@
-module github.com/rdleal/intervalst
+module github.com/gilbsgilbs/intervalst
 
 go 1.19

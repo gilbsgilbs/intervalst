@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rdleal/intervalst/interval"
+	"github.com/gilbsgilbs/intervalst/interval"
 )
 
 func Example() {
